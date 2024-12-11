@@ -14,7 +14,7 @@ carpet [INFORMACION](carpet/README.md)
 
 ---
 
-carpeta_1 [INFORMACION](carpeta_1/README.md)
+carpeta_1[INFORMACION](carpeta_1/README.md)
 
 ----
 
